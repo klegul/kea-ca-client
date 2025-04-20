@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
+	"github.com/klegul/kea-ca-client/model"
 	"github.com/mitchellh/mapstructure"
 	"io"
-	"kea-ca-client/model"
 	"net/http"
 	"strconv"
 )
