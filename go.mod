@@ -1,4 +1,4 @@
-module kea-ca-client
+module github.com/klegul/kea-ca-client
 
 go 1.23
 
